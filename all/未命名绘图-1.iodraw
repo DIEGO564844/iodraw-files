@@ -59,9 +59,6 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-42" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="9WQ_ZU__S9Zl9_hUJNIS-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-43" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="9WQ_ZU__S9Zl9_hUJNIS-41">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-44" value="Target" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="9WQ_ZU__S9Zl9_hUJNIS-41">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
