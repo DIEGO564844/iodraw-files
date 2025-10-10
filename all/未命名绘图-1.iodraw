@@ -24,7 +24,7 @@
             <mxRectangle x="600" y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-7" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;问题&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9WQ_ZU__S9Zl9_hUJNIS-6">
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-7" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;问题&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=none;" vertex="1" parent="9WQ_ZU__S9Zl9_hUJNIS-6">
           <mxGeometry x="170" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
