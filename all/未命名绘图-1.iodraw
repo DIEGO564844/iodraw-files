@@ -34,7 +34,7 @@
           <mxGeometry x="427.5" y="465" width="580" height="390" as="geometry" />
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-25" value="" style="swimlane;startSize=120;dashed=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;arcSize=50;fontSize=13;swimlaneLine=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="760" width="480" height="270" as="geometry">
+          <mxGeometry x="527.5" y="760" width="480" height="270" as="geometry">
             <mxRectangle x="600" y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
