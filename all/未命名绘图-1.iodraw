@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-1" value="&lt;font color=&quot;#7ea6e0&quot;&gt;&lt;span style=&quot;font-size: 24px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;用户&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=0;shadow=0;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-1" value="&lt;span style=&quot;font-size: 24px; text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;用户&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=0;shadow=0;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-3" value="&lt;div&gt;&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#FFFFFF;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;shadow=1;align=center;arcSize=50;" vertex="1" parent="1">
