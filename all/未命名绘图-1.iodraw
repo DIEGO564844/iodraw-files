@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="NLWSh3pSF9K3qN-jkF8Z">
-    <mxGraphModel dx="1426" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="815" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-30" value="&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;某车间加工轴类零件时，CNC 工序小时产量常低于目标 15%（瓶颈），&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;分析数&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 250%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;据发现：正常时段主轴转速稳定 2000-2200r/min、进给量 70-80mm/min、刀具&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 250%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;磨损＜0.15mm，&lt;span style=&quot;background-color: initial;&quot;&gt;而瓶颈时段主轴转速＜1800r/min、进给量＜60mm/min、刀具磨损&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 250%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;超 0.2mm，经相关性分析，这三项参数与产量关联度达 0.85 以上，确认为&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 250%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;强关联参数。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="785" width="610" height="200" as="geometry" />
+          <mxGeometry x="670" y="830" width="610" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
