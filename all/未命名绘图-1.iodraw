@@ -13,11 +13,11 @@
             <mxPoint x="400" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#FFFFFF;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="30" width="570" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="400" height="170" as="geometry" />
+          <mxGeometry x="610" y="610" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#FFFFFF;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="570" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-4" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#999999;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="50" width="60" height="40" as="geometry" />
