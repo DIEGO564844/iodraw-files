@@ -47,15 +47,10 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-33" value="生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#999999;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="702.5" y="710" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9WQ_ZU__S9Zl9_hUJNIS-1" target="9WQ_ZU__S9Zl9_hUJNIS-6">
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="1" source="9WQ_ZU__S9Zl9_hUJNIS-1" target="9WQ_ZU__S9Zl9_hUJNIS-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="450" as="sourcePoint" />
             <mxPoint x="590" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9WQ_ZU__S9Zl9_hUJNIS-38">
-          <mxGeometry x="-0.2809" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
