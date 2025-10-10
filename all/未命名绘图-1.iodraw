@@ -30,6 +30,9 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-14" value="分析已有数据，那些参数&lt;div&gt;与生产瓶颈强相关&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="9WQ_ZU__S9Zl9_hUJNIS-6">
           <mxGeometry x="60" y="80" width="330" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="270" width="120" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
