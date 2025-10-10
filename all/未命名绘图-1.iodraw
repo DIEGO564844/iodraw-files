@@ -47,12 +47,14 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-33" value="生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#999999;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="690" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9WQ_ZU__S9Zl9_hUJNIS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="450" as="sourcePoint" />
             <mxPoint x="730" y="400" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="170" y="320" />
               <mxPoint x="730" y="450" />
+              <mxPoint x="330" y="330" />
               <mxPoint x="680" y="400" />
             </Array>
           </mxGeometry>
