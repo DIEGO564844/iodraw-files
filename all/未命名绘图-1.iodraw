@@ -14,10 +14,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#FFFFFF;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="570" height="280" as="geometry" />
+          <mxGeometry x="480" y="20" width="570" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-4" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#999999;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="515" y="60" width="60" height="40" as="geometry" />
+          <mxGeometry x="515" y="40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-6" value="" style="swimlane;startSize=40;dashed=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;arcSize=50;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="590" y="60" width="410" height="240" as="geometry">
