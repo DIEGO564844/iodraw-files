@@ -20,7 +20,7 @@
           <mxGeometry x="515" y="40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-6" value="" style="swimlane;startSize=40;dashed=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;arcSize=50;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="590" y="60" width="410" height="240" as="geometry">
+          <mxGeometry x="560" y="100" width="410" height="240" as="geometry">
             <mxRectangle x="600" y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
