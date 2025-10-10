@@ -42,13 +42,13 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="660" width="580" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-25" value="" style="swimlane;startSize=35;dashed=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;arcSize=50;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-25" value="" style="swimlane;startSize=0;dashed=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;arcSize=50;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="385" y="735" width="480" height="275" as="geometry">
             <mxRectangle x="600" y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-30" value="&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;某车间加工轴类零件时，CNC 工序小时产量常低于目标 15%（瓶&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;颈），&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;分析数&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;据发现：正常时段主轴转速稳定 2000-2200r/min、&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;进&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;给量 70-80mm/min、刀具&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;磨损＜0.15mm，&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;而瓶颈时段主轴转速＜&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;1800r/min、进给量＜60mm/min、刀具磨损&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;超 0.2mm，经相关性&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 250%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;分析，这三项参数与产量关联度达 0.85 以上，确认为&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;强关联参数。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="800" width="500" height="170" as="geometry" />
+          <mxGeometry x="375" y="800" width="500" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
