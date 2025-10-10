@@ -19,7 +19,7 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-4" value="输入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#999999;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="50" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-6" value="" style="swimlane;startSize=50;dashed=1;fillColor=#dae8fc;strokeColor=default;strokeWidth=2;rounded=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-6" value="" style="swimlane;startSize=50;dashed=1;fillColor=none;strokeColor=default;strokeWidth=2;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="600" y="90" width="410" height="170" as="geometry">
             <mxRectangle x="600" y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
