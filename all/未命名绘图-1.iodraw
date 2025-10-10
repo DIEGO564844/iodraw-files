@@ -39,6 +39,11 @@
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="640" width="580" height="390" as="geometry" />
         </mxCell>
+        <UserObject label="https://cdn.prod.website-files.com/657639ebfb91510f45654149/67b4c293747043c9b6d86ec3_deepseek-color.webp" link="https://cdn.prod.website-files.com/657639ebfb91510f45654149/67b4c293747043c9b6d86ec3_deepseek-color.webp" id="9WQ_ZU__S9Zl9_hUJNIS-23">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="740" y="710" width="560" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
