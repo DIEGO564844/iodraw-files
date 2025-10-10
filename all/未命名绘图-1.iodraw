@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9WQ_ZU__S9Zl9_hUJNIS-30" value="某车间加工轴类零件时，CNC 工序小时产量常低于目标 15%（瓶颈），分析数据发现：正常时段主轴转速稳定 2000-2200r/min、进给量 70-80mm/min、刀具磨损＜0.15mm，而瓶颈时段主轴转速＜1800r/min、进给量＜60mm/min、刀具磨损超 0.2mm，经相关性分析，这三项参数与产量关联度达 0.85 以上，确认为强关联参数。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="1138" width="1760" height="30" as="geometry" />
+          <mxGeometry x="-262.5" y="870" width="1760" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
